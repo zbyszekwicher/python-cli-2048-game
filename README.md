@@ -1,33 +1,16 @@
-\ Python 2048 Game CLI
-
-
+Python 2048 Game CLI
 
 A command-line interface implementation of the classic 2048 tile-merging puzzle game, developed in Python in 2022 as a hobby project.
 
+Features
+- Real-Time Controls: Utilizes the `keyboard` library for synchronous, real-time input handling (W-A-S-D controls).
+- Game Logic: Implements the core 2048 game rules, including tile merging, score tracking, and random new tile generation.
+- Terminal Output: Displays the game board, score, and controls using custom formatted text in the console.
 
-
-\ Features
-
-
-
-\- Real-Time Controls: Utilizes the `keyboard` library for synchronous, real-time input handling (W-A-S-D controls).
-
-\- Game Logic: Implements the core 2048 game rules, including tile merging, score tracking, and random new tile generation.
-
-\- Terminal Output: Displays the game board, score, and controls using custom formatted text in the console.
-
-
-
-\ Installation
-
-
-
+ Installation
 This project requires the third-party `keyboard` library.
 
-
-
-1\.  Clone the Repository:
-
+1.  Clone the Repository:
 &nbsp;   ```bash
 
 &nbsp;   git clone \[your-repo-link]
@@ -38,7 +21,7 @@ This project requires the third-party `keyboard` library.
 
 
 
-2\.  Install Dependencies:
+2.  Install Dependencies:
 
 &nbsp;   ```bash
 
@@ -48,7 +31,7 @@ This project requires the third-party `keyboard` library.
 
 
 
-3\.  Run the Game:
+3.  Run the Game:
 
 &nbsp;   ```bash
 
