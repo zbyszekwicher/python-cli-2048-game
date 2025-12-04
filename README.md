@@ -1,4 +1,4 @@
-\# Python 2048 Game CLI
+\ Python 2048 Game CLI
 
 
 
@@ -6,7 +6,7 @@ A command-line interface implementation of the classic 2048 tile-merging puzzle 
 
 
 
-\## Features
+\ Features
 
 
 
@@ -18,7 +18,7 @@ A command-line interface implementation of the classic 2048 tile-merging puzzle 
 
 
 
-\## Installation
+\ Installation
 
 
 
