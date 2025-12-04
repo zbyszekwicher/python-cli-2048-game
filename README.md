@@ -13,9 +13,9 @@ This project requires the third-party `keyboard` library.
 1.  Clone the Repository:
 &nbsp;   ```bash
 
-&nbsp;   git clone \[your-repo-link]
+&nbsp;   git clone https://github.com/zbyszekwicher/python-cli-2048-game.git
 
-&nbsp;   cd python-cli-2048
+&nbsp;   cd python-cli-2048-game
 
 &nbsp;   ```
 
