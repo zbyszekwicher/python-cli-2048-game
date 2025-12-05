@@ -11,6 +11,7 @@ Features
 This project requires the third-party `keyboard` library.
 
 1.  Clone the Repository:
+
 &nbsp;   ```bash
 
 &nbsp;   git clone https://github.com/zbyszekwicher/python-cli-2048-game.git
