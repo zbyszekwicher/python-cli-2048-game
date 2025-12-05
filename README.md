@@ -5,7 +5,7 @@ A command-line interface implementation of the classic 2048 tile-merging puzzle 
 Features
 - Real-Time Controls: Utilizes the `keyboard` library for synchronous, real-time input handling (W-A-S-D controls).
 - Game Logic: Implements the core 2048 game rules, including tile merging, score tracking, and random new tile generation.
-- Terminal Output: Displays the game board, score, and controls using custom formatted text in the console.
+- Terminal Output: Displays the game board, score, and controls using text in the console.
 
  Installation
 This project requires the third-party `keyboard` library.
